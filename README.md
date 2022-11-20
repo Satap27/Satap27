@@ -1,7 +1,7 @@
 * 🌟  Passionate about (many) new technologies, I am a software developer with a special eye on cyber security.
 * 📚  I am doing a master's in Computer Science and Engineering at Politecnico di Milano.
 * 👨‍💻  I am currently working as a Full Stack Software Developer for the [National Institute for Nuclear Physics](https://home.infn.it/en/) and I am a Web Developer for [Wedu](https://w-edu.it/home/), a startup for researching virtual tours and online educational workshops.
-* 🎖️  I won two bronze medals at Italian Olympiad in Informatics and I qualified for the national finals of the [CyberChallenge](https://cyberchallenge.it/).
+<!--* 🎖️  I won two bronze medals at Italian Olympiad in Informatics and I qualified for the national finals of the [CyberChallenge](https://cyberchallenge.it/).-->
 
 <h2 align="center">💌 You can reach me on</h2>
 <p align="center">
