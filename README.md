@@ -22,7 +22,7 @@
   <!--<img src="https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white" />&nbsp;-->
   <!--<img src="https://img.shields.io/badge/Erlang-white.svg?style=for-the-badge&logo=erlang&logoColor=a90533" />&nbsp;-->
   <!--<img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" />-->
-  <br>(I have also used Go, Scheme, Haskell, Erlang, PHP)
+  <br>(I also used Go, Scheme, Haskell, Erlang, PHP)
 </p>
 
 <h4 align="center">Frameworks</h2>
