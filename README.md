@@ -4,14 +4,9 @@
 * 🌱  I am currently learning Kotlin.
 <!--* 🎖️  I won two bronze medals at Italian Olympiad in Informatics and I qualified for the national finals of the [CyberChallenge](https://cyberchallenge.it/).-->
 
-<h2 align="center">💌 You can reach me on</h2>
-<p align="center">
-  <a target="_blank"href="https://www.linkedin.com/in/fabioluccioletti"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="mailto:luccioletti.fabio@gmail.com"><img src="https://img.shields.io/badge/gmail-%230077B5.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
 <h2 align="center">🧰 Tech Stack</h2>
 
-<h4 align="center">Principal languages</h2>
+<h3 align="center">Principal languages</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp;
@@ -25,7 +20,7 @@
   <br>(I also used Go, Scheme, Haskell, Erlang, PHP)
 </p>
 
-<h4 align="center">Frameworks</h2>
+<h3 align="center">Frameworks</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" />&nbsp;
@@ -35,7 +30,7 @@
   <!--<img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />-->
 </p>
 
-<h4 align="center">Technologies</h2>
+<h3 align="center">Technologies</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" />&nbsp;
@@ -43,4 +38,10 @@
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+<h2 align="center">💌 You can reach me on</h2>
+<p align="center">
+  <a target="_blank"href="https://www.linkedin.com/in/fabioluccioletti"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="mailto:luccioletti.fabio@gmail.com"><img src="https://img.shields.io/badge/gmail-%230077B5.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
